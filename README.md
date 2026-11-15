@@ -155,7 +155,7 @@ Tests 1 to 10 running in the VS Code terminal, ending with `10 of 10 tests passe
 
 **Part 3**
 
-![Test results, part 3](screenshots/09_tests_part2.png)
+![Test results, part 3](screenshots/09_tests_part3.png)
 
 ## Changing the number of servers (for example 3 to 5)
 
